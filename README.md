@@ -5,7 +5,7 @@
         <a href="https://t.me/marrjizod">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" >
         </a>
-        <a href="https://t.me/marrjizod">
+        <a href="https://t.me/frolov_frontdev">
             <img src="https://img.shields.io/badge/Headhunter-red?style=for-the-badge&l" alt="Telegram">
         </a>
     </div>

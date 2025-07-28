@@ -1,6 +1,6 @@
 <div align="middle">
     <h1>👋Hi there, I'm Dmitriy</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=200&color=456FF7&lines=Frontend+developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=210&color=456FF7&lines=Frontend+developer" alt="Typing SVG" /></a>
     <div>
         <a href="https://t.me/marrjizod">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" >

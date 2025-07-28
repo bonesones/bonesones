@@ -5,14 +5,14 @@
         <a href="https://t.me/marrjizod">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" >
         </a>
-        <a href="https://t.me/frolov_frontdev">
+        <a href="https://hh.ru/resume/6f425a00ff0f292ccd0039ed1f4e5a76715755?from=share_ios">
             <img src="https://img.shields.io/badge/Headhunter-red?style=for-the-badge&l" alt="Telegram">
         </a>
     </div>
 </div>
 
 ### About me
-- :eye: I'm currently learning **Typescript, Redux-Toolkit**.
+- :eye: I'm currently learning **Typescript, Redux-Toolkit, Next.js**.
 - Reach me by [email](mailto:dmitriyworkspace013@gmail.com).
 <hr>
 

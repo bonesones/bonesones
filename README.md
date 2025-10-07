@@ -12,16 +12,19 @@
 </div>
 
 ### About me
-- :eye: I'm currently learning **Typescript, Redux-Toolkit, Next.js**.
+
 - Reach me by [email](mailto:dmitriyworkspace013@gmail.com).
 <hr>
 
 ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="80px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="80px" /><br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="80px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="80px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-original.svg" height="80px" />
+
 <hr>
-          
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonesones&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
-[![codewars](https://www.codewars.com/users/bonesones/badges/large)](https://www.codewars.com/users/bonesones)   
+[![codewars](https://www.codewars.com/users/bonesones/badges/large)](https://www.codewars.com/users/bonesones)
